@@ -1,0 +1,12 @@
+body {
+  background-color: #efd592;
+}
+
+button {
+  width: 240px;
+  height: 50px;
+
+  background: none;
+
+  border: 4px solid #242d38;
+}
